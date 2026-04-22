@@ -1,0 +1,117 @@
+<\begin{Topic}>
+	# extract from file name?
+<\end{Topic}>
+
+<\begin{Question_ID}>
+	# extract from file name?
+<\end{Question_ID}>
+
+
+
+<\begin{Question_type}>
+	2 #MC=1, calculation=2, word=3
+<\end{Question_type}>
+
+
+
+<\begin{Question_en}> # × °
+	A student puts a small metal sphere in the boiling water. After a few minutes, the sphere is quickly transferred to a polystyrene cup containing *m_v* g of water at a temperature of 20 °C. The cup of water is stirred gently and its highest temperature attained is *t_v* °C.Given: specific heat capacity of water = 4200 J kg–1 °C–1
+	
+	Estimate the heat capacity C of the metal sphere.
+<\end{Question_en}>
+
+<\begin{Question_zh}>
+	一名學生將一個小金屬球放入沸水中。幾分鐘後，迅速將金屬球轉移到裝有 *m_v* g、20 °C 水的聚苯乙烯杯中。輕輕攪拌杯中的水，使其達到的最高溫度為 *t_v* °C。已知：水的比熱容 = 4200 J kg–1 °C–1
+
+	估算金屬球的熱容量 C。
+<\end{Question_zh}>
+
+
+
+<\begin{Mark}>
+	2
+<\end{Mark}>
+
+
+
+<\begin{MC_choice}>
+	[
+		expression, en, zh
+		A,,
+		B,,
+		C,,
+		D,,
+	]
+<\end{MC_choice}>
+
+
+
+<\begin{Hint_en}>
+	
+<\end{Hint_en}>
+
+<\begin{Hint_zh}>
+	
+<\end{Hint_zh}>
+
+
+
+<\begin{Variable}>
+	[
+		Variable,liminf,limsup
+		*t_v*,22,30
+		*m_v*,50,200
+	]
+<\end{Variable}>
+
+
+
+<\begin{Answer}>
+	[
+	
+	C (100 – *t_v*) = m_w c_w (*t_v* – 20),
+	
+	C = \frac{(*m_v* / 1000) \times 4200(*t_v* - 20 )}{100-*t_v*}
+	
+	]
+<\end{Answer}>
+
+<\begin{Unit}>
+	J \degree C^{–1}
+<\end{Unit}>
+
+<\begin{Remark}>
+	#AI instruction to specific question
+<\end{Remark}>
+
+
+
+<\begin{Explanation_en}>
+	#mainly for MC
+<\end{Explanation_en}>
+
+<\begin{Explanation_zh}>
+	#mainly for MC
+<\end{Explanation_zh}>
+
+
+
+<\begin{Image_path}>
+	# Question_ID? file name?
+<\end{Image_path}>
+
+<\begin{Image_pos}>
+	1 # above question text = 1, below question text = 2
+<\end{Image_pos}>
+
+
+
+<\begin{Difficulty}>
+	1 #Easy=1, Medium=2, Hard=3, Very_hard=4
+<\end{Difficulty}>
+
+
+
+<\begin{Trash}>
+	1 # not in trash = 1, in trash =2
+<\end{Trash}>
